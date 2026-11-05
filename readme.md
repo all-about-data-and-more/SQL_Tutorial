@@ -50,7 +50,7 @@ Worked answers to every exercise are in [`solutions/`](solutions/).
 
 ## Questions and corrections
 
-Spotted an error, a broken link, or a result that doesn't match its lesson? Please [open an issue](https://github.com/samietex/SQL_Tutorial/issues). The reading version of this curriculum, and the roadmap it belongs to, is at [All About Data & More](https://aaboutdata.substack.com/p/start-here-from-beginner-to-job-ready).
+Spotted an error, a broken link, or a result that doesn't match its lesson? Please [open an issue](https://github.com/all-about-data-and-more/SQL_Tutorial/issues). The reading version of this curriculum, and the roadmap it belongs to, is at [All About Data & More](https://aaboutdata.substack.com/p/start-here-from-beginner-to-job-ready).
 
 ## License
 

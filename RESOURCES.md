@@ -80,4 +80,4 @@ The [Start Here roadmap](https://aaboutdata.substack.com/p/start-here-from-begin
 
 ---
 
-Know a resource that belongs here, or found a broken link? Please [open an issue](https://github.com/samietex/SQL_Tutorial/issues).
+Know a resource that belongs here, or found a broken link? Please [open an issue](https://github.com/all-about-data-and-more/SQL_Tutorial/issues).
